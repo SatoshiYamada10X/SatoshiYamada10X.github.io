@@ -7,13 +7,15 @@ body {
   color: #FFFFFF;
   height: 50px;
   padding: 10px;
+  text-align: center;
   font-size: 28px;
   border-bottom: 1px solid #333;
 }
 
 .date {
-  color: #CCCCCC;
+  color: #AAAAAA;
   font-size: 14px;
+  margin-bottom: 5px;
 }
 
 .footer {
