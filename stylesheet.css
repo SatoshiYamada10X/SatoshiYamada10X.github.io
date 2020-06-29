@@ -4,14 +4,20 @@
 
 body {
   margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font-family: 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 }
 
 a {
   text-decoration: none;
 }
 
-.container {
+.header logo {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.header-list {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
