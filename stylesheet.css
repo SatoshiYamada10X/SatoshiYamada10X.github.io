@@ -6,9 +6,8 @@ body {
   background-color: #000000;
   color: #FFFFFF;
   height: 50px;
-  padding: 10px;
   text-align: center;
-  font-size: 28px;
+  font-size: 24px;
 }
 
 .date {
@@ -24,8 +23,7 @@ body {
 .footer {
   background-color: #C0C0C0;
   color: #FFFFFF;
-  height: 40px;
-  padding: 10px;
+  height: 36px;
 }
 
 .footer-logo {
