@@ -3,7 +3,10 @@ body {
 }
 
 .header {
-  color: #888888;
+  background-color: #000000;
+  color: #FFFFFF;
+  height: 50px;
+  padding: 10px;
 }
 
 .header logo {
