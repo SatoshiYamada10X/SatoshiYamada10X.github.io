@@ -16,8 +16,8 @@ body {
 }
 
 .picture{
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: auto;
 }
   
 .date {
