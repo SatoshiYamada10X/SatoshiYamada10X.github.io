@@ -2,14 +2,11 @@ body {
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
 }
 
-.header {
+.header-logo {
   background-color: #000000;
   color: #FFFFFF;
   height: 50px;
   padding: 10px;
-}
-
-.header logo {
   font-size: 28px;
   border-bottom: 1px solid #333;
 }
