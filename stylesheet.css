@@ -1,8 +1,6 @@
 body {
   font-family: "Hiragino Kaku Gothic ProN";
-  width 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
+
 }
 
 .header-logo {
@@ -15,12 +13,12 @@ body {
 }
 
 .main{
-  padding left: 5px
+  padding left: 10px
 }
 
 .picture{
-  width: 200px;
-  height: auto;
+  width: 100px ;
+  height: auto ;
 }
   
 .date {
