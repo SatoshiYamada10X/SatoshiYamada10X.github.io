@@ -16,7 +16,7 @@ body {
   margin:10px 200px;
 }
 
-.picture{
+p.class img {
   width: 100px;
   height: auto;
 }
