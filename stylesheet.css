@@ -7,24 +7,23 @@ body {
   background-color: #000000;
   color: #FFFFFF;
   height: 50px;
-  padding: 5px, 0px;
+  padding: 0px 0px;
   text-align: center;
   font-size: 24px;
 }
 
 .main{
-  padding:10px 200px;
+  margin:10px 200px;
 }
 
 .picture{
-  width: 10% ;
-  height: auto ;
+  width: 100px;
+  height: auto;
 }
   
 .date {
   color: #AAAAAA;
   font-size: 14px;
-  margin-bottom: 5px;
 }
 
 .career {
