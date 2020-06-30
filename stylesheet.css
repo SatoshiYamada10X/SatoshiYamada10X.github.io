@@ -13,6 +13,11 @@ body {
   font-size: 24px;
 }
 
+.container{
+  display: inline-block;
+}
+  
+
 .main{
   margin:10px 10%;
 }
